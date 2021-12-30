@@ -1,6 +1,6 @@
 import Header from "../components/Header"
 import Footer from "../components/Footer"
-import Image from 'next/Image'
+// import Image from 'next/Image'
 import CheckoutProduct from "../components/CheckoutProduct"
 import {useSelector} from "react-redux"
 import {selectItems, selectTotal} from "../slices/basketSlice"
